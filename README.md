@@ -16,3 +16,6 @@ What I was working with, not what the book requests:
 
 I'm surprised nobody has packaged Julia for the official apt repo yet. Maybe
 snap is the way of the future, or it's just not popular enough.
+
+Edit: apparently 20.04 had Julia 1.4.1 so maybe folks just haven't got round
+to packaging it for the new repos?
